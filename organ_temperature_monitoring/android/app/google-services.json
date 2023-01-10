@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583156427962",
+    "firebase_url": "https://organtempmonitoring-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "organtempmonitoring",
+    "storage_bucket": "organtempmonitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583156427962:android:0f16b03e9c51ad66dda683",
+        "android_client_info": {
+          "package_name": "com.example.organ_temperature_monitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583156427962-ihb5u6roveituu66ei3fia8f98opb2b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9XcrudmqMGDGSAFjwAVtFz-tw3LBdQTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583156427962-ihb5u6roveituu66ei3fia8f98opb2b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
